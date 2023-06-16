@@ -1,0 +1,21 @@
+:root{
+    --clr : red;
+}
+*{
+    --clr : rgb(139, 10, 151);
+}
+
+.container{
+    background-color: var(--clr);
+    height: 500px;
+    width: 500px;
+    display: grid;
+}
+
+.box{
+    --clr : red;
+    background-color: blanchedalmond;
+    color: var(--clr);
+    width: 100px;
+    height: 100px;
+}

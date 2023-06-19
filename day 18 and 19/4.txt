@@ -1,0 +1,38 @@
+1. wap to print if a num is even or odd.
+2. wap to determine if a num is greater than the other.
+3. wap to determine if a num is positive or negative.
+4. wap to determine if a year is leap year or not.
+5. wap to determine largest num among three num.
+6. wap to determine the char is vowel or consonent.
+7. wap to determine the greatest among 5 nums.
+8. wap to find the smallest among 4 nums.
+9. wap to find if a char is alphabet, num or symbol.
+10. wap for currency caculator in atm.
+11. wap for week day name.
+12. wap for num of days in a week.
+13. wap to print nums within a range.
+14. wap to return sum of nums within a range.
+15. wap for fibonacci series.
+16. wap for fibonacci series within range n.
+17. wap for fibonacci series within range n and m.
+18. wap to check if a num is prime num or not.
+19. wap to check if a num is perfect num or not.
+20. wap to check if a num is strong num or not.
+21. wap to print lcm of two given nums.
+22. wap to print hcf/gcd of two given nums.
+23. wap to print sum of all digits of a num.
+24. print all odd and even digits of a num.
+25. wap to convert decimal to binary of the input n.
+26. wap to convert binary to decimal of the input n.
+27. wap for magic number.
+28. wap to count no. of digits in a num.
+29. wap to add square of each digit of a num.
+30. wap to print sum of cube of each digit of a number.
+31. wap for palindrome number.
+32. wap for armstrong number.
+33. wap for prime number within a range.
+34. list of strong num within given range.
+35. list of armstrong num within given range.
+36. list of perfect num within given range.
+37. print alternative prime num in a given range.
+38. wap to print 11,12,13,14,15,21,22,23,24,25.....53,54,55. 
